@@ -1,3 +1,3 @@
-README.md
-datavalidation.py
-requirements.txt
+streamlit
+pandas
+openpyxl
